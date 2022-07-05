@@ -1,7 +1,5 @@
-*
-*/*
-*/*/*
-*/*/*/*.png
+*.md
+assets
 !.gitignore
-!.README.md
-!./*/*.pdf
+!README.md
+!*.pdf
